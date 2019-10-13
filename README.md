@@ -6,3 +6,5 @@ Requisito:
 Libreria selenium o webdriver
 Libreria keyboard 
 
+mas info: https://aureliohacking.blogspot.com/2019/07/faceblockreporte-de-usuario-de-facebook.html
+
